@@ -1,5 +1,5 @@
 <h1>Amigo Secreto</h1>
-![Texto alternativo](assets/amigo-secreto.png)
+(https://github.com/Emily1411/Amigo-Secreto/blob/main/assets/amigo-secreto.png)
 
 <h3>Este es un juego donde podras jugar con tus amigos y elegir de manera aleatoriamente un amigo secreto</h3>
 <p>Vamos a introducir el nombre de nuestros amigos y el programa escogera a uno de ellos </p>
