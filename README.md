@@ -9,5 +9,5 @@
 
 <p>Si queremos seguir jugando y elegir a otro amigo secreto tambien podremos hacerlo, precionamos el boton de sortear amigo y el programa nos dara un nuevo amigo secreto</p>
 
-<p>De esta forma vamos a podremos jugar todas las veces que queramos</p>
+<p>De esta forma vamos a poder jugar todas las veces que queramos</p>
 <h4>Estado de proyecto: Terminado</h4>
